@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Drawdown Research</title>
+    <link href="https://fazil-iqbal.github.io/odoo/feed.xml" rel="self" />
+    <link href="https://fazil-iqbal.github.io/odoo" />
+    <updated>2023-08-16T10:05:41-04:00</updated>
+    <author>
+        <name>Fazil Farhan Iqbal</name>
+    </author>
+    <id>https://fazil-iqbal.github.io/odoo</id>
+
+    <entry>
+        <title>Hi</title>
+        <author>
+            <name>Fazil Farhan Iqbal</name>
+        </author>
+        <link href="https://fazil-iqbal.github.io/odoo/hi.html"/>
+        <id>https://fazil-iqbal.github.io/odoo/hi.html</id>
+
+        <updated>2023-08-16T10:05:41-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
